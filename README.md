@@ -1,2 +1,1 @@
-# Practice---Momery-Game
-Practicing JS
+# Practice-Memory-Game
